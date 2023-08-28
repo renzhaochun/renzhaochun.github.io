@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-          <p>Email: zhaochun.ren@sdu.edu.cn</p>
+          <p>zhaochun.ren@sdu.edu.cn</p>
+          
           <p>408-1, N3 Building, 72th Binhai Road, Qingdao, China</p>
 
 news: true  # includes a list of news items
