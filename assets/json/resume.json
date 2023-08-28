@@ -51,19 +51,29 @@
       "Director": "Prof. Gerhard Weikum"
     },
   ],
-  "volunteer": [],
   "Education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "University of Amsterdam",
+      "area": "Amsterdam, the Netherlands",
+      "studyType": "PhD in ILPS ",
+      "startDate": "2012",
+      "endDate": "2016",
+      "Supervisor": "Prof. Dr. Maarten de Rijke",
+    },
+    {
+      "institution": "Shandong University",
+      "area": "Qingdao, China",
+      "studyType": "M.E. in Computer Science and Technology ",
+      "startDate": "2009",
+      "endDate": "2012",
+      "Supervisor": "Prof. Jun Ma",
+    },
+    {
+      "institution": "Shandong University",
+      "area": "Qingdao, China",
+      "studyType": "B.E. in Computer Science and Technology",
+      "startDate": "2005",
+      "endDate": "2009"
     }
   ],
   "Scholarships and Awards": [
@@ -87,6 +97,7 @@
       "fluency": "Fluent"
     }
   ],
+  "volunteer": [],
   "interests": [],
   "references": [],
   "projects": []
