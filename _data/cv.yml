@@ -32,56 +32,77 @@
   type: time_table
   contents:
     - title: Professor
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      institution: Leiden University
+      year: 2023 - now
+    - title: Professor
+      institution: Shandong University, China
+      year: 2019
+    - title: Research Scientist & Senior Research Manager
+      institution: Data Science Lab at JD.com, China
+      year: 2017 - 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Worked on e-commerce recommender systems, text mining, and dialogue systems.
+    - title: Research Associate
+      institution: Department of Computer Science, University College London, United Kingdom
+      year: 2016 - 2017
+      description:
+        - Worked on an EPSRC project about early warning for infectious diseases.
+    - title: PhD student
+      institution: Informatics Institute, University of Amsterdam, The Netherlands
+      year:  2012-2016
+      description:
+        - Worked on social media analysis.
+    - title: Visiting Scholar 
+      institution: Natural Language Processing Group, Columbia University, U.S.A
+      year: 2014
+      description:
+        - title: Supervisor
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Prof. Kathleen McKeown
+    - title: Visiting Scholar   
+      institution: D5, Max Planck Institute for Informatics, Germany
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - title: Supervisor
+          contents:
+            - Prof. Gerhard Weikumv
 
 
 - title: Scholarships and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Rising Star Award on Natural Language Processing
+      year: 2022
+      description: China Computer Federation
+    - title: Tencent “Rhino Bird” Faculty Research Award 
+      year: 2020
+    - title: WSDM 2019 Outstanding Reviewer Award 
+      year: 2019
+    - title: Qilu Youth Fellowship, Shandong University 
+      year: 2019-2023
+    - title: WSDM 2018 Best Student Paper Award
+      year: 2018
+    - title: CIKM 2017 Best Full Paper Runner Up Award
+      year: 2017
+    - title: Chinese Government Award for Outstanding PhD Students
+      year: 2015
+
+
+- title: Invited tutorials
+  type: time_table
+  contents:
+    - title: Rising Star Award on Natural Language Processing
+      year: 2022
+      description: China Computer Federation
+    - title: Tencent “Rhino Bird” Faculty Research Award 
+      year: 2020
+    - title: WSDM 2019 Outstanding Reviewer Award 
+      year: 2019
+    - title: Qilu Youth Fellowship, Shandong University 
+      year: 2019-2023
+    - title: WSDM 2018 Best Student Paper Award
+      year: 2018
+    - title: CIKM 2017 Best Full Paper Runner Up Award
+      year: 2017
+    - title: Chinese Government Award for Outstanding PhD Students
+      year: 2015
