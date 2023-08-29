@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-Full list see my [Google Scholar](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en)
+### Full list see my [Google Scholar](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en)
 <!-- _pages/publications.md -->
 <div class="publications">
 
