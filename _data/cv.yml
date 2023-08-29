@@ -1,4 +1,4 @@
-- title: General Information
+- title: general information
   type: map
   contents:
     - name: Full Name
@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 1989
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: PhD in ILPS 
@@ -20,15 +20,13 @@
       institution: Shandong University, Qingdao, China
       year: 2009 - 2012
       description:
-        - title: Supervisor
-          contents:
-            - Prof. Jun Ma
+        - title: Supervisor: Prof. Jun Ma
     - title: B.E. in Computer Science and Technology 
       institution: Shandong University, Qingdao, China
       year: 2005 - 2009
       
 
-- title: Working Experience
+- title: working Experience
   type: time_table
   contents:
     - title: Professor
@@ -68,7 +66,7 @@
             - Prof. Gerhard Weikumv
 
 
-- title: Scholarships and Awards
+- title: scholarships and awards
   type: time_table
   contents:
     - title: Rising Star Award on Natural Language Processing
@@ -88,7 +86,7 @@
       year: 2015
 
 
-- title: Invited tutorials
+- title: invited tutorials
   type: time_table
   contents:
     - title: Conversational Information Seeking and Recommendation.
