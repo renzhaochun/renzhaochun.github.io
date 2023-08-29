@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## PhD & M.Sc Supervision in Shandong University:
+### PhD & M.Sc Supervision in Shandong University:
 Ziqi Zhao (M.Sc student, from 2023)  
 Liu Yang (M.Sc student, from 2023)  
 Zhengliang Shi (M.Sc student, from 2023)  
@@ -36,7 +36,9 @@ Qintong Li (Co-advisor, M.Sc student 2018-2020, she studies as a PhD student at 
 Minghong Xu (Co-advisor, M.Sc student 2018-2020, she joins Baidu.)  
 Changfeng Sun (Co-advisor, M.Sc student 2017-2020, he studies as a PhD student in Xi'an Jiaotong University.)  
 
-## Undergraduate Supervision in Shandong University:
+---
+
+### Undergraduate Supervision in Shandong University:
 Shicheng Bei (2016, M.Sc student at UC Santa Diego, USA)    
 Qitao Shen (2016, M.Sc student at Rice Univeristy, USA)  
 Minxing Zhang (2016, PhD student at Saarland University, Germany)  
@@ -55,7 +57,9 @@ Zhengliang Shi (2019, M.Sc student at Shandong University.)
 Liu Yang (2019, M.Sc student at Shandong University.)  
 Zijian Meng (2019)  
 
-## Supervision before joining Shandong University:
+---
+
+### Supervision before joining Shandong University:
 Shen Gao(PKU, CHINA),    
 Zhaonian Cai(JHU, CHINA),     
 Bo Cheng(JHU, CHINA),   
