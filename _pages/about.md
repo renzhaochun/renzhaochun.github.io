@@ -25,14 +25,15 @@ I am currently a full professor at Shandong University, China. I’m leading a g
 
 
 ### Research Interests
-**Information Retrieval:**  
+
+Information Retrieval:  
 - Recommender systems  
 - Conversational IR  
 - Personalized search and QA  
 - Legal IR systems and applications  
 - Interactive IR applications  
 
-**Natural Language Processing:**  
+Natural Language Processing:  
 - Dialogue systems  
 - Summarization and tagging  
 - Knowledge representation and distillation  
