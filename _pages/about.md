@@ -16,7 +16,7 @@ profile:
           
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 ### **Professor**
@@ -25,14 +25,14 @@ I am currently a full professor at Shandong University, China. I’m leading a g
 
 
 ### Research Interests
-- **Information Retrieval:**  
-  - Recommender systems  
-  - Conversational IR  
-  - Personalized search and QA  
-  - Legal IR systems and applications  
-  - Interactive IR applications  
+**Information Retrieval:**  
+- Recommender systems  
+- Conversational IR  
+- Personalized search and QA  
+- Legal IR systems and applications  
+- Interactive IR applications  
 
-- **Natural Language Processing:**  
-  - Dialogue systems  
-  - Summarization and tagging  
-  - Knowledge representation and distillation  
+**Natural Language Processing:**  
+- Dialogue systems  
+- Summarization and tagging  
+- Knowledge representation and distillation  
