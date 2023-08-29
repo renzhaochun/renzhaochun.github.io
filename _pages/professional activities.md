@@ -2,7 +2,7 @@
 layout: page
 permalink: /professional_activities/
 title: professional activities
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
