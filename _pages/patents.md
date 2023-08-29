@@ -2,7 +2,7 @@
 layout: page
 title: patents
 permalink: /patents/
-description: A growing collection of your cool patents.
+description: 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
