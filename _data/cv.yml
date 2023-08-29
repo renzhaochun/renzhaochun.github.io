@@ -20,7 +20,9 @@
       institution: Shandong University, Qingdao, China
       year: 2009 - 2012
       description:
-        - title: Supervisor: Prof. Jun Ma
+        - title: Supervisor
+          contents:
+            Prof. Jun Ma
     - title: B.E. in Computer Science and Technology 
       institution: Shandong University, Qingdao, China
       year: 2005 - 2009
