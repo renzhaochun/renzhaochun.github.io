@@ -4,7 +4,7 @@
     - name: Full Name
       value: Zhaochun Ren
     - name: Date of Birth
-      value: 1989
+      value: 1987
 
 - title: education
   type: time_table
@@ -31,12 +31,12 @@
 - title: working experience
   type: time_table
   contents:
-    - title: Professor
+    - title: ？ Professor
       institution: Leiden University
       year: 2023 - now
     - title: Professor
       institution: Shandong University, China
-      year: 2019
+      year: 2019 - ？
     - title: Research Scientist & Senior Research Manager
       institution: Data Science Lab at JD.com, China
       year: 2017 - 2019
@@ -119,7 +119,7 @@
       year: 2018
       description: 
         - SIGIR'18, Ann Arbor, USA
-        - Zhaochun Ren, Xiangnan He, Dawei Yin, Maarten de Rijke. 
+        - <em> Zhaochun Ren </em>, Xiangnan He, Dawei Yin, Maarten de Rijke. 
     - title: Search and Content Analysis in E-commerce.
       year: 2018
       description: 
