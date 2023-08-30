@@ -5,12 +5,12 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: supervision
+    - title: Supervision
       permalink: /supervision/
     - title: divider
-    - title: professional activities
+    - title: Professional activities
       permalink: /professional_activities/
     - title: divider
-    - title: invited tutorials
+    - title: Invited tutorials
       permalink: /invited_tutorials/
 ---

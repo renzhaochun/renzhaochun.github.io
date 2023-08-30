@@ -1,4 +1,4 @@
-- title: general information
+- title: General information
   type: map
   contents:
     - name: Full Name
@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 1987
 
-- title: education
+- title: Education
   type: time_table
   contents:
     - title: PhD in ILPS 
@@ -28,7 +28,7 @@
       year: 2005 - 2009
       
 
-- title: working experience
+- title: Working experience
   type: time_table
   contents:
     - title: ？ Professor
@@ -68,7 +68,7 @@
             - Prof. Gerhard Weikumv
 
 
-- title: scholarships and awards
+- title: Scholarships and Awards
   type: time_table
   contents:
     - title: Rising Star Award on Natural Language Processing

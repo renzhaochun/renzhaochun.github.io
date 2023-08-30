@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /supervision/
-title: supervision
+title: Supervision
 description: 
 nav: false
 nav_order: 6
