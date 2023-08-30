@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-          <p>408-1, N3 Building, 72th Binhai Road, Qingdao, China</p>
+          <p>z.ren@liacs.leidenuniv.nl</p>
+          
+          <p>Snellius, Niels Bohrweg 1 2333 CA Leiden, the Netherlands</p>
 
-          <p>zhaochun.ren@sdu.edu.cn</p>
+          
 
           
 news: true  # includes a list of news items
@@ -21,7 +23,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 ### Professor
 
-I am currently a full professor at Shandong University, China. I’m leading a growing and productive information retrieval and natural language processing group. Prior to this, I worked as a senior research manager at JD.com and a research associate in University College London. I got my PhD from University of Amsterdam, supervised by Prof. Dr. Maarten de Rijke. I am interested in information retrieval, social media mining, and natural language processing. Before joining UvA, I received my B.E and M.E from Shandong University in 2009 and 2012 respectively, and worked as a short-term visiting scholar in Max-Planck-Institut für Informatik, 2012.
+I am interested in information retrieval and natural language processing, with an emphasis on conversational artiﬁcial intelligence, recommender systems, and social media analysis. I aim to develop intelligent agents that can address complex user requests and solve core challenges in NLP and IR towards that goal. I got my PhD from University of Amsterdam in 2016, supervised by Prof. Dr. Maarten de Rijke. 
+Before joining UvA, I received my B.E and M.E from Shandong University in 2009 and 2012 respectively, and worked as a short-term visiting scholar in Max-Planck-Institut für Informatik, 2012.
 
 
 ## Research interests
