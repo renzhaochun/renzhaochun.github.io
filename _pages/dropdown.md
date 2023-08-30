@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: professional activities
       permalink: /professional_activities/
+    - title: divider
+    - title: invited tutorials
+      permalink: /invited_tutorials/
 ---
