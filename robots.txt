@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zxd-octopus.github.io/sitemap.xml
+Sitemap: https://renzhaochun.github.io/sitemap.xml
