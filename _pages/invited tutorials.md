@@ -7,6 +7,9 @@ nav: false
 nav_order: 5
 ---
 
+[**Recent Advances in Generative Information Retrieval.**]
+- ECIR 2024, Glasgow, UK, 2024.
+
 [**Conversational Information Seeking and Recommendation.**](http://tcci.ccf.org.cn/conference/2022/tutorials.php)
 - NLPCC 2022, Guilin, China, 2022.
 
