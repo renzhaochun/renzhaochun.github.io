@@ -17,6 +17,8 @@ Xiang He (M.Sc on DS&AI)
 Shupei Li (M.Sc on DS&AI)
 Chao Zhao (M.Sc on DS&AI)
 
+---
+
 ### PhD & M.Sc Supervision in Shandong University:
 Zhen Zhang (M.Sc student, from 2024)
 Ziqi Zhao (M.Sc student, from 2023)  
