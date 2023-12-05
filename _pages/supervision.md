@@ -10,11 +10,11 @@ nav_order: 6
 ---
 
 ### PhD & M.Sc Supervision in Leiden University:
-Qianru Meng (PhD student, co-advisored with Prof. Joost Visser, from 2023)
-Koen van der Burg (M.Sc on Bioinformatics)
-Stan Eveleens (M.Sc on DS&AI)
-Xiang He (M.Sc on DS&AI)
-Shupei Li (M.Sc on DS&AI)
+Qianru Meng (PhD student, co-advisored with Prof. Joost Visser, from 2023)\n
+Koen van der Burg (M.Sc on Bioinformatics)\n
+Stan Eveleens (M.Sc on DS&AI)\n
+Xiang He (M.Sc on DS&AI)\n
+Shupei Li (M.Sc on DS&AI)\n
 Chao Zhao (M.Sc on DS&AI)
 
 ---
