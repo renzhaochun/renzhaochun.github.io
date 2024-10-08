@@ -31,8 +31,8 @@ I'm now an Associate Professor at <a href="https://www.universiteitleiden.nl/en"
 **Information Retrieval**:  
 - Recommender systems  
 - Conversational IR  
-- Generative Retrieval
-- Retrieval-argumented Generation    
+- Generative retrieval
+- Retrieval-argumented generation    
 
 **Natural Language Processing**:  
 - Dialogue systems   
@@ -40,5 +40,5 @@ I'm now an Associate Professor at <a href="https://www.universiteitleiden.nl/en"
 
 **Large language Models**: 
 - Trustworthy LLMs
-- LLMs Fine-Tuning
-- Tool Learning
+- LLMs fine-tuning
+- Tool learning and multi-agent with LLMs
