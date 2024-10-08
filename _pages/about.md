@@ -38,7 +38,7 @@ I'm now an Associate Professor at <a href="https://www.universiteitleiden.nl/en"
 - Dialogue systems   
 - Knowledge representation and distillation
 
-**Large language Models**: 
+**Large Language Models**: 
 - Trustworthy LLMs
 - LLMs fine-tuning
 - Tool learning and multi-agent with LLMs
