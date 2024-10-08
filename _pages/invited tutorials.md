@@ -9,6 +9,8 @@ nav_order: 5
 
 **Recent Advances in Generative Information Retrieval.**
 - ECIR 2024, Glasgow, UK, 2024.
+- The Web Conference 2024, Singapore, 2024
+- SIGIR 2024, Washington DC, USA, 2024
 
 [**Conversational Information Seeking and Recommendation.**](http://tcci.ccf.org.cn/conference/2022/tutorials.php)
 - NLPCC 2022, Guilin, China, 2022.
