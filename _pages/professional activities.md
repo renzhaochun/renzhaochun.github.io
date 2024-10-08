@@ -14,8 +14,6 @@ nav_order: 5
 - Associate Editor, Information Processing & Management (IPM), since 2023
 - Guest Editor, ACM Transactions on Information Systems (TOIS), 2020-2021
 - Editorial board member of Information Processing & Management (IPM), 2017-2023
-- Editorial board member of Frontiers in Big Data, 2021 - 2023
-
 ---
 
 ### organisational
