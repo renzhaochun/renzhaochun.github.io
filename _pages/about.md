@@ -31,11 +31,14 @@ I'm now an Associate Professor at <a href="https://www.universiteitleiden.nl/en"
 **Information Retrieval**:  
 - Recommender systems  
 - Conversational IR  
-- Personalized search and QA  
-- Legal IR systems and applications  
-- Interactive IR applications  
+- Generative Retrieval
+- Retrieval-argumented Generation    
 
 **Natural Language Processing**:  
-- Dialogue systems  
-- Summarization and tagging  
-- Knowledge representation and distillation  
+- Dialogue systems   
+- Knowledge representation and distillation
+
+**Large language Models**: 
+- Trustworthy LLMs
+- LLMs Fine-Tuning
+- Tool Learning
