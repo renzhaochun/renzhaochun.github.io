@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+### Invited tutorials
+
 **Recent Advances in Generative Information Retrieval.**(https://generative-ir.github.io/)
 - ECIR 2024, Glasgow, UK, 2024.
 - The Web Conference 2024, Singapore, 2024

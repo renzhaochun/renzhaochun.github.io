@@ -5,13 +5,12 @@ title: Activities
 description: 
 nav: true
 nav_order: 5
-
 ---
 
 ### editorial
 	- Associate Editor, ACM Transactions on Information Systems (TOIS), since 2024 
-	- Associate Editor, Information Processing & Management (IPM), since 2023
-	- Guest Editor, ACM Transactions on Information Systems (TOIS), 2020-2021
+	- Associate Editor, Information Processing & Management (IPM), since 2023 
+	- Guest Editor, ACM Transactions on Information Systems (TOIS), 2020-2021 
 
 ---
 
