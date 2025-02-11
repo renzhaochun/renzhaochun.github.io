@@ -68,7 +68,7 @@
             - Prof. Gerhard Weikumv
 
 
-- title: Scholarships and Awards
+- title: Awards
   type: time_table
   contents:
     - title: ACM RecSys 2024 Best Full Paper Award 
@@ -79,9 +79,8 @@
       year: 2024
     - title: EMNLP 2023 Outstanding Paper Award 
       year: 2023
-    - title: Rising Star Award on Natural Language Processing
+    - title: China Computer Federation - Rising Star Award on Natural Language Processing
       year: 2022
-      description: China Computer Federation
     - title: Tencent “Rhino Bird” Faculty Research Award 
       year: 2020
     - title: WSDM 2019 Outstanding Reviewer Award 

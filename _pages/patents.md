@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patents
+title: Talks
 permalink: /patents/
 description: 
 nav: true
