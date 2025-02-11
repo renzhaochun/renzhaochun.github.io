@@ -39,7 +39,6 @@ I am currently an Associate Professor at <a href="https://www.universiteitleiden
 - Knowledge representation and distillation
 
 **Large Language Models**: 
-- Trustworthy LLMs
 - LLMs fine-tuning and alignment
 - Tool learning and multi-agent with LLMs
 - Efficient pre-training and inference

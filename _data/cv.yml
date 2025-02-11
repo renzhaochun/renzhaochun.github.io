@@ -15,7 +15,7 @@
       description:
         - title: Supervisor
           contents:
-            - Prof. Dr. Maarten de Rijke
+            - Prof. Maarten de Rijke and Prof. Evangelos Kanoulas
     - title: M.E. in Computer Science and Technology
       institution: Shandong University, Qingdao, China
       year: 2009 - 2012
@@ -71,6 +71,14 @@
 - title: Scholarships and Awards
   type: time_table
   contents:
+    - title: ACM RecSys 2024 Best Full Paper Award 
+      year: 2024
+    - title: SIGIR 2024 Best Paper Honorable Mention Award 
+      year: 2024
+    - title: WSDM 2024 Best Paper Runner-up Award 
+      year: 2024
+    - title: EMNLP 2023 Outstanding Paper Award 
+      year: 2023
     - title: Rising Star Award on Natural Language Processing
       year: 2022
       description: China Computer Federation
