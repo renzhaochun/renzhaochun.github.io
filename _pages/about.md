@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I'm now an Associate Professor at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, the Netherlands. I am interested in information retrieval and natural language processing, with an emphasis on conversational artiﬁcial intelligence, recommender systems, and social media analysis. I aim to develop intelligent agents that can address complex user requests and solve core challenges in NLP and IR towards that goal. I got my PhD from University of Amsterdam in 2016, supervised by Prof. Dr. Maarten de Rijke. Prior to that, I received my B.E and M.E from Shandong University in 2009 and 2012 respectively, and worked as a short-term visiting scholar in Max-Planck-Institut für Informatik, 2012.
+I am currently an Associate Professor at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, the Netherlands. My research focuses on information retrieval and natural language processing, with a particular emphasis on conversational information-seeking, generative retrieval, recommender systems, and large language models. My overarching goal is to develop intelligent agents capable of addressing complex user requests and solving fundamental challenges in NLP and IR. Before joining Leiden, I served as a Professor at Shandong University from 2019 to 2023 and worked as a Research Scientist at JD.com from 2017 to 2023. I earned my PhD in 2016 from the University of Amsterdam, where I was supervised by Prof. dr. Maarten de Rijke and Prof. dr. Evangelos Kanoulas. Prior to that, I completed both my B.E. (2009) and M.E. (2012) at Shandong University and spent time as a short-term visiting scholar at the Max Planck Institute for Informatics in 2012.
 
 
 ## Research interests
@@ -35,10 +35,11 @@ I'm now an Associate Professor at <a href="https://www.universiteitleiden.nl/en"
 - Retrieval-argumented generation    
 
 **Natural Language Processing**:  
-- Dialogue systems   
+- Empathetic dialogue systems   
 - Knowledge representation and distillation
 
 **Large Language Models**: 
 - Trustworthy LLMs
-- LLMs fine-tuning
+- LLMs fine-tuning and alignment
 - Tool learning and multi-agent with LLMs
+- Efficient pre-training and inference
