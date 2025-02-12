@@ -8,8 +8,7 @@ nav_order: 5
 ---
 
 - Associate Editor, ACM Transactions on Information Systems (TOIS), since 2024 
-- Associate Editor, Information Processing & Management (IPM), since 2023 
-- Guest Editor, ACM Transactions on Information Systems (TOIS), 2020-2021 
+- Associate Editor, Information Processing & Management (IPM), since 2023  
 ---
 ---
 - Program co-chair of NLPCC 2025
@@ -17,6 +16,7 @@ nav_order: 5
 - Sponsorship co-chair of The Web Conference 2024
 - Tutorial chair of NLPCC 2023
 - Web chair of EMNLP 2022
+- Guest Editor, ACM Transactions on Information Systems (TOIS), 2020-2021
 - Sponsorship chair of SIGIR 2021
 - Sponsorship chair of NLPCC 2021
 - General chair of YSSNLP 2021

@@ -18,7 +18,7 @@ Zihan Wang (PhD student, co-advisored with Prof. Maarten de Rijke, 2024, he will
 
 ---
 
-### PhD & M.Sc Supervision in Shandong University:
+### Student Supervision in Shandong University:
 Zhen Zhang (M.Sc student, from 2024)
 Ziqi Zhao (M.Sc student, from 2023)  
 Liu Yang (M.Sc student, from 2023)  
