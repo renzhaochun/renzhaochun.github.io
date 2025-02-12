@@ -7,10 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-- Associate Editor, ACM Transactions on Information Systems (TOIS), since 2024 
-- Associate Editor, Information Processing & Management (IPM), since 2023  
----
----
+- Associate editor, ACM Transactions on Information Systems (TOIS), since 2024 
+- Associate editor, Information Processing & Management (IPM), since 2023  
 - Program co-chair of NLPCC 2025
 - Workshop co-chair of SIGIR 2025
 - Sponsorship co-chair of The Web Conference 2024
@@ -30,4 +28,4 @@ nav_order: 5
 	- NLP4REC 2020 workshop (with WSDM 2020)
 	- AIIS 2020 workshop (with SIGIR 2020)
 - Senior program committee member/Area chair
-	- SIGIR 2023-2025, KDD 2022-2025, WSDM 2022-2023, ECML-PKDD 2020-2022, WWW 2021-2023, IJCAI 2021-2022
+	- SIGIR 2023-2025, KDD 2022-2025, ACL ARR 2024-2025, WSDM 2022-2025, The Web Conference 2021-2023, IJCAI 2021-2022
