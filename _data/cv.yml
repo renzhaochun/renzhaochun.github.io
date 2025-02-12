@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Zhaochun Ren
-    - name: Date of Birth
-      value: 1987
+    - name: Contact address
+      value: Room BE.2.11. Gorlaeusgebouw, Einsteinweg 55 2333 CC Leiden, the Netherlands
+    - name: Email address
+      value: z.ren@liacs DOT leidenuniv DOT nl
 
 - title: Education
   type: time_table
