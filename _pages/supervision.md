@@ -26,7 +26,7 @@ nav_order: 6
 - Shiguang Wu (M.Sc student, from 2023)  
 - Zhe Zhang (M.Sc student, 2025)  
 - Jitai Hao (M.Sc student, 2025, he studies as a PhD student at HIT Shenzhen campus.)  
-- Xiaoying Jin (M.Sc student, 2024)  
+- Xiaoying Jin (M.Sc student, 2024, she joins Baidu.)  
 - Xiaoyu Zhang (M.Sc student, 2024)  
 - Weiwei Sun (M.Sc student, 2023, he studies as a PhD student at Carnegie Mellon University.)
 - Shuyu Guo (PhD student, from 2022)  
