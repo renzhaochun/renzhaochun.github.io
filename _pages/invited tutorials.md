@@ -9,7 +9,7 @@ nav_order: 4
 
 ### Invited tutorials
 
-**Recent Advances in Generative Information Retrieval.**(https://generative-ir.github.io/)
+[**Recent Advances in Generative Information Retrieval.**](https://generative-ir.github.io/)
 - ECIR 2024, Glasgow, UK, 2024.
 - The Web Conference 2024, Singapore, 2024
 - SIGIR 2024, Washington DC, USA, 2024
