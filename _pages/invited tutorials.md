@@ -7,9 +7,11 @@ nav: true
 nav_order: 4
 ---
 ### Teaching in Leiden
-[**Introduction to Programming**](https://generative-ir.github.io/)
+[**Introduction to Programming**](https://studiegids.universiteitleiden.nl/courses/123378/introduction-to-programming-bsc/)
+- 4031IPRG6, BSc, 2024-2025
 
-[**Recommender Systems**](https://generative-ir.github.io/)
+[**Recommender Systems**](https://studiegids.universiteitleiden.nl/courses/129629/recommender-systems/)
+- 4343RECSY, MSc, 2024-2025
 
 ### Invited tutorials
 
