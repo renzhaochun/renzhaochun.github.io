@@ -6,6 +6,10 @@ description:
 nav: true
 nav_order: 4
 ---
+### Teaching in Leiden
+[**Introduction to Programming**](https://generative-ir.github.io/)
+
+[**Recommender Systems**](https://generative-ir.github.io/)
 
 ### Invited tutorials
 
