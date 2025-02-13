@@ -37,7 +37,6 @@ nav_order: 4
 
 [**Information Discovery in E-commerce.**](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fsigir2018-info-ec%2Fhome&sa=D&sntz=1&usg=AFQjCNHM8Jst88rtLCxim5JBnp_HwhxTEw)
 - SIGIR'18, Ann Arbor, USA, 2018
-- **Zhaochun Ren**, Xiangnan He, Dawei Yin, Maarten de Rijke. 
 
 **Search and Content Analysis in E-commerce.**
 - CCIR'18, Guilin, China, 2018
