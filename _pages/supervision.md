@@ -60,6 +60,5 @@ nav_order: 6
 - Hongshen Chen (JD.com, CHINA),   
 - Zhengyi Yang (NSWU, Australia),   
 - Yukun Zhao (Alibaba, China),   
-- Hongya Song （Huawei, CHINA）,   
-- Jin Huang (UvA, The Netherlands),   
-- John Aivalis (UvA, The Netherlands)  
+- Hongya Song (Huawei, CHINA),     
+- John Aivalis (UvA, The Netherlands) 
