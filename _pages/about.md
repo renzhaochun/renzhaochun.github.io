@@ -18,7 +18,8 @@ social: false  # includes social icons at the bottom of the page
 
 
 I am currently an Associate Professor at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, the Netherlands. My research focuses on information retrieval and natural language processing, with a particular emphasis on conversational information-seeking, generative retrieval, recommender systems, and large language models. My overarching goal is to develop intelligent agents capable of addressing complex user requests and solving fundamental challenges in NLP and IR. Before joining Leiden, I served as a Professor at Shandong University from 2019 to 2023 and worked as a Research Scientist at JD.com from 2017 to 2023. I earned my PhD in 2016 from the University of Amsterdam, where I was supervised by Prof. dr. Maarten de Rijke and Prof. dr. Evangelos Kanoulas. Prior to that, I completed both my B.E. (2009) and M.E. (2012) at Shandong University and spent time as a short-term visiting scholar at the Max Planck Institute for Informatics in 2012.
-**CSC Admission**: We welcome excellent students funded by CSC for 2026 to join our team! We focus on cutting-edge research in information retrieval, natural language processing, and large language models. If you are interested in these areas and have CSC funding, please contact me via email for discussion.
+
+<span style="color: #B509AC"><strong>CSC Admission</strong>: I welcome outstanding CSC-funded candidates to join my research group in 2026. If your research interests align with mine, please feel free to reach out via email for further discussion.</span>
 
 
 ## Research interests
