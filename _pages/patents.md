@@ -15,7 +15,7 @@ nav_order: 3
 
 [**Generative Retrieval from Search to Recommendation**]
 - April 2025, at STW & Sentosa Summit 2025
-- September, at MBZUAI
+- September 2025, at MBZUAI
 - [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdf/generative-retrieval-slides.pdf)
  
 
