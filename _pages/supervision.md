@@ -15,16 +15,18 @@ nav_order: 6
 - Yougang Lyu (PhD student, co-advisored with Prof. Maarten de Rijke, 2025)
 - Zhou Yang (PhD student, co-advisored with Prof. Xiangwen Liao, 2025) 
 - Zihan Wang (PhD student, co-advisored with Prof. Maarten de Rijke, 2024, he will join CISPA)
+- Jujia Zhao (PhD student, co-advisored with Prof. Suzan Verberne, from 2024)
 
 ---
 
 ### Student Supervision in Shandong University:
+- Yufei Chen (M.Sc student, from 2026)
 - Zhen Zhang (M.Sc student, from 2024)
 - Ziqi Zhao (M.Sc student, from 2023)  
 - Liu Yang (M.Sc student, from 2023)  
 - Zhengliang Shi (M.Sc student, from 2023)  
 - Shiguang Wu (M.Sc student, from 2023)  
-- Zhe Zhang (M.Sc student, 2025)  
+- Zhe Zhang (M.Sc student, 2025, he joins Beijing Zhongguancun Academy as an research engineer.)  
 - Jitai Hao (M.Sc student, 2025, he studies as a PhD student at HIT Shenzhen campus.)  
 - Xiaoying Jin (M.Sc student, 2024, she joins Baidu.)  
 - Xiaoyu Zhang (M.Sc student, 2024)  

@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
+- General chair of ECIR 2026
 - Associate editor, ACM Transactions on Information Systems (TOIS), since 2024 
 - Associate editor, Information Processing & Management (IPM), since 2023  
 - Program co-chair of NLPCC 2025
