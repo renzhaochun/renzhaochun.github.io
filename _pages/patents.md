@@ -7,10 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-# Patents
-
-## Granted Patents
-
 **Method and system for processing sentence, and electronic device**  
 C Hongshen, LIU Shuman, REN Zhaochun  
 US Patent 12,039,281
