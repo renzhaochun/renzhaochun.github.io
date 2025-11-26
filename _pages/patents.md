@@ -1,22 +1,30 @@
 ---
 layout: page
-title: Talks
+title: Patents
 permalink: /patents/
-description: 
+description: Patents and intellectual property
+nav: true
+nav_order: 3
+---
+layout: page
+title: Patents
+permalink: /patents/
+description: Patents and intellectual property
 nav: true
 nav_order: 3
 ---
 
----
+# Patents
 
-[**Towards Empathetic Conversational Recommender Systems**]
-- January 2025, a guest lecture at TU Delft
-- December 2024, at <a href="https://ciir.cs.umass.edu/node/780">CIIR Talk Series</a>
+## Granted Patents
 
-[**Generative Retrieval from Search to Recommendation**]
-- April 2025, at STW & Sentosa Summit 2025
-- September, at MBZUAI
-- [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdf/generative-retrieval-slides.pdf)
+**Method and system for processing sentence, and electronic device**  
+C Hongshen, LIU Shuman, REN Zhaochun  
+US Patent 12,039,281
+
+**A method and system for automatically generating text summaries based on temporal knowledge extraction**  
+Wang Yafang, REN Zhaochun  
+CN106055542B
  
 
 

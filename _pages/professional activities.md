@@ -4,7 +4,7 @@ permalink: /professional_activities/
 title: Activities
 description: 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 - General chair of ECIR 2026
