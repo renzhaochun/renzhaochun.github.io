@@ -2,7 +2,7 @@
 layout: page
 title: Patents
 permalink: /patents/
-description: Patents and intellectual property
+# description: Patents and intellectual property
 nav: true
 nav_order: 3
 ---
