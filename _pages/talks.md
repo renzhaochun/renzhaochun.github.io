@@ -17,5 +17,7 @@ nav_order: 4
 - September, at MBZUAI
 - [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdf/generative-retrieval-slides.pdf)
 
-<!-- Add past talks here -->
+[**Generalizable Generative Retrieval**]
+- November 2025, at CIKM 2025 Workshop
+- [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdf/CIKM_workshop.pdf)
 
