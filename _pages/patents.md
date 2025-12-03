@@ -8,12 +8,10 @@ nav_order: 3
 ---
 
 **Method and system for processing sentence, and electronic device**  
-C Hongshen, LIU Shuman, REN Zhaochun  
+CHEN Hongshen, LIU Shuman, REN Zhaochun, YIN Dawei, ZHAO Yihong
 US Patent 12,039,281
 
-**A method and system for automatically generating text summaries based on temporal knowledge extraction**  
-Wang Yafang, REN Zhaochun  
-CN106055542B
+
  
 
 

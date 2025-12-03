@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 ### Teaching in Leiden
+[**Fundamentals of Programming**](https://studiegids.universiteitleiden.nl/courses/135841/fundamentals-of-programming)
+- 4031FUNPR, BSc, 2025-2026
+
 [**Introduction to Programming**](https://studiegids.universiteitleiden.nl/courses/123378/introduction-to-programming-bsc/)
 - 4031IPRG6, BSc, 2024-2025
 

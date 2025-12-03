@@ -18,6 +18,6 @@ nav_order: 4
 - [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdf/generative-retrieval-slides.pdf)
 
 [**Generalizable Generative Retrieval**]
-- November 2025, at CIKM 2025 Workshop
+- November 2025, at CIKM 2025 Workshop <a href="https://proactllm.github.io/">Proactive Conversational Information Seeking with Large Language Models (ProActLLM)</a>
 - [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdf/CIKM_workshop.pdf)
 

@@ -14,7 +14,7 @@ nav_order: 7
 - Qianru Meng (PhD student, co-advisored with Prof. Joost Visser, from 2023)  
 - Yougang Lyu (PhD student, co-advisored with Prof. Maarten de Rijke, 2025)
 - Zhou Yang (PhD student, co-advisored with Prof. Xiangwen Liao, 2025) 
-- Zihan Wang (PhD student, co-advisored with Prof. Maarten de Rijke, 2024, he will join CISPA)
+- Zihan Wang (PhD student, co-advisored with Prof. Maarten de Rijke, 2024, he joins CISPA)
 - Jujia Zhao (PhD student, co-advisored with Prof. Suzan Verberne, from 2024)
 
 ---
