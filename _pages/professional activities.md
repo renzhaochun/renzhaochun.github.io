@@ -28,5 +28,5 @@ nav_order: 6
 	- DAPA 2019 workshop (with WSDM 2019)
 	- NLP4REC 2020 workshop (with WSDM 2020)
 	- AIIS 2020 workshop (with SIGIR 2020)
-- Senior program committee member/Area chair
-	- SIGIR 2023-2025, KDD 2022-2025, ACL ARR 2024-2025, WSDM 2022-2025, The Web Conference 2021-2023, IJCAI 2021-2022
+- Senior program committee member/(Senior) Area chair
+	- SIGIR 2023-2026, KDD 2022-2026, ACL ARR 2024-2026, WSDM 2022-2025, The Web Conference 2026
