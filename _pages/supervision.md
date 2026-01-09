@@ -18,6 +18,7 @@ nav_order: 7
 - Jujia Zhao (PhD student, co-advisored with Prof. Suzan Verberne, from 2024)
 - Mingwei Zhang (PhD student, co-advisored with Prof. Maarten de Rijke, from 2026)
 - Shiguang Wu (PhD student, co-advisored with Prof. Maarten de Rijke and Dr. Yubao Tang, from 2026)
+
 ---
 
 ### Student Supervision in Shandong University:
