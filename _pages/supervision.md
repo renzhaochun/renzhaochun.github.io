@@ -11,7 +11,7 @@ nav_order: 7
 
 ### PhD Supervision in Leiden University:
 - Qianru Meng (PhD student, co-advisored with Prof. Joost Visser, from 2023)  
-- Yougang Lyu (PhD student, co-advisored with Prof. Maarten de Rijke, 2025)
+- Yougang Lyu (PhD student, co-advisored with Prof. Maarten de Rijke, 2025, he joins Huawei.)
 - Zhou Yang (PhD student, co-advisored with Prof. Xiangwen Liao, 2025) 
 - Zihan Wang (PhD student, co-advisored with Prof. Maarten de Rijke, 2024, he joins CISPA)
 - Jiawen Qi (PhD student, co-advisored with Dr. Qinyu Chen, from 2024) 
@@ -24,14 +24,14 @@ nav_order: 7
 ### Student Supervision in Shandong University:
 - Yufei Chen (M.Sc student, from 2026)
 - Zhen Zhang (M.Sc student, from 2024)
-- Ziqi Zhao (M.Sc student, from 2023)  
-- Liu Yang (M.Sc student, from 2023)  
+- Ziqi Zhao (M.Sc student, 2026, she studies as a PhD student at The Hong Kong Polytechnic University.)  
+- Liu Yang (M.Sc student, 2026, she studies as a PhD student at The Hong Kong Polytechnic University.)  
 - Zhengliang Shi (M.Sc student, from 2023)  
-- Shiguang Wu (M.Sc student, from 2023)  
+- Shiguang Wu (M.Sc student, 2026, he studies as a PhD student at University of Amsterdam.)  
 - Zhe Zhang (M.Sc student, 2025, he joins Beijing Zhongguancun Academy as an research engineer.)  
 - Jitai Hao (M.Sc student, 2025, he studies as a PhD student at HIT Shenzhen campus.)  
 - Xiaoying Jin (M.Sc student, 2024, she joins Baidu.)  
-- Xiaoyu Zhang (M.Sc student, 2024)  
+- Xiaoyu Zhang (M.Sc student, 2024, she studies as a PhD student at University College London.)  
 - Weiwei Sun (M.Sc student, 2023, he studies as a PhD student at Carnegie Mellon University.)
 - Shuyu Guo (PhD student, from 2022)  
 - Yukun Zhao (PhD student, co-advisored with Dr. Dawei Yin, 2024, he joins Baidu.)  
