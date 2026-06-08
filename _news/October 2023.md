@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-8 papers have been accepted at EMNLP 2023!
+8 papers have been accepted at EMNLP 2023.

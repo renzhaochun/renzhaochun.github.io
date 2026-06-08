@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 papers have been accepted at CIKM 2025!
+1 papers have been accepted at CIKM 2025.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2 papers have been accepted at The Web Conference 2025!
+2 papers have been accepted at The Web Conference 2025.
