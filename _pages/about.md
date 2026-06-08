@@ -25,7 +25,7 @@ I am currently an Associate Professor at <a href="https://www.universiteitleiden
 - Recommender systems  
 - Conversational IR  
 - Generative retrieval
-- Retrieval-argumented generation    
+- Agentic information retrieval
 
 **Natural Language Processing**:  
 - Empathetic dialogue systems   
