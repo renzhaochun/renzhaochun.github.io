@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2 papers have been accepted at ICLR 2026.
+2 papers have been accepted at ICLR 2026!

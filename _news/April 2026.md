@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ECIR 2026 was successfully held in Delft, with record attendance and participation.
+ECIR 2026 was successfully held in Delft, with record attendance and participation!
