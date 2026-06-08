@@ -10,7 +10,7 @@ nav_order: 6
 - Tutorial co-chair of WSDM 2027
 - Workshop and tutorial co-chair of SIGIR AP 2026
 - Tutorial co-chair of NLPCC 2026
-- General chair of ECIR 2026
+- General co-chair of ECIR 2026
 - Associate editor, ACM Transactions on Information Systems (TOIS), since 2024 
 - Associate editor, Information Processing & Management (IPM), since 2023  
 - Program co-chair of NLPCC 2025
