@@ -26,7 +26,7 @@ nav_order: 7
 - Zhen Zhang (M.Sc student, from 2024)
 - Ziqi Zhao (M.Sc student, 2026, she studies as a PhD student at The Hong Kong Polytechnic University.)  
 - Liu Yang (M.Sc student, 2026, she studies as a PhD student at The Hong Kong Polytechnic University.)  
-- Zhengliang Shi (M.Sc student, from 2023)  
+- Zhengliang Shi (M.Sc student, 2026, he studies as a PhD student at Carnegie Mellon University.)  
 - Shiguang Wu (M.Sc student, 2026, he studies as a PhD student at University of Amsterdam.)  
 - Zhe Zhang (M.Sc student, 2025, he joins Beijing Zhongguancun Academy as an research engineer.)  
 - Jitai Hao (M.Sc student, 2025, he studies as a PhD student at HIT Shenzhen campus.)  
